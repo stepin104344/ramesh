@@ -7,10 +7,6 @@
 #ifndef  __MATH_H
 #define  __MATH_H
 
-#if !defined(___DEFS_H)
-#include <_defs.h>
-#endif
-
 #define HUGE_VAL    _huge_dble
 extern double _Cdecl _huge_dble;
 #define _LHUGE_VAL   _huge_ldble
