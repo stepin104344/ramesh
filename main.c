@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 //#include<conio.h>
-#include "calc.h"
+#include"calc.h"
 #define PI 3.14159265
 
  int main(void)
