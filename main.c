@@ -38,6 +38,5 @@ if (n>0 && n<11)
     printf("%f",answer);
 else
     printf("Wrong input.\n");
-    getch();
 return 0;
 }
