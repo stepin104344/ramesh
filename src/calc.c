@@ -1,4 +1,5 @@
 #include<calc.h>
+#include<math.h>
 float sine(float x)
 {
     float result=0;
