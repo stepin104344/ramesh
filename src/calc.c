@@ -3,12 +3,12 @@
 float sine(float x)
 {
     float result=0;
-result=sin (x*PI/180);
+result=sin(x*PI/180);
 return result;
 }
 float cosine(float x)
  {
-return (cos (x*PI/180));
+return (cos(x*PI/180));
 }
 float tangent(float x)
 {
@@ -20,11 +20,11 @@ return (sinh(x*PI/180));
 }
 float cosineh(float x)
 {
-return (sinh(x));
+return (cosh(x));
 }
  float tangenth(float x)
  {
-return (sinh(x));
+return (tanh(x));
 }
  float logten(float x)
 {
