@@ -1,9 +1,6 @@
 #ifndef __CALC_OPERATIONS_H__
 #define __CALC_OPERATIONS_H__
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 #define PI 3.14159265
 float sine(float x);
 float cosine(float x);
